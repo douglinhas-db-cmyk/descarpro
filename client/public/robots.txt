@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /api/*
-Sitemap: https://www.descarpro.com.br/sitemap.xml
+Sitemap: https://inquisitive-froyo-a4dad5.netlify.app/sitemap.xml
